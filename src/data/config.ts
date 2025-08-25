@@ -32,7 +32,7 @@ const config = {
   site: "https://lakshaymunjal.tech",
 
   get ogImg() {
-    return this.site + "/assets/seo/og-image.png";
+    return this.site + "/assets/seo/landing.png";
   },
   social: {
     twitter: "",

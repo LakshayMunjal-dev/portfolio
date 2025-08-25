@@ -108,7 +108,7 @@ const HeroSection = () => {
                       </Link>
                     </TooltipTrigger>
                     <TooltipContent side="bottom">
-                      <p>pls 🥹 🙏</p>
+                      <p>Let’s work together</p>
                     </TooltipContent>
                   </Tooltip>
                   <Link
